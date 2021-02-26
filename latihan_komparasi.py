@@ -15,4 +15,4 @@ isCorrect = isKurangDari or isLebihDari
 print("Angka yang anda masukkan ", isCorrect)
 
 #irisan
-#----3+++++10-----
+#----3+++++10------
